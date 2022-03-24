@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Below are some of my favorite dev tools
+I'm currently working on [@delm-app](https://github.com/delm-app) full-time. Below are some of my favorite dev tools:
 
 ### Languages
 
