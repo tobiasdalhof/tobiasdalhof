@@ -4,6 +4,7 @@ I'm currently working on [@delm-app](https://github.com/delm-app) full-time. Bel
 
 ### Languages
 
+![PHP](https://img.shields.io/badge/PHP-%23007ACC.svg?style=for-the-badge&logo=PHP&logoColor=white&color=0F0F0F)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=0F0F0F)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&color=0F0F0F)
 
