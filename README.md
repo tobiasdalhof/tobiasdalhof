@@ -14,6 +14,7 @@ I'm currently working on [@delm-app](https://github.com/delm-app) full-time. Bel
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&color=0F0F0F)
 ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white&color=0F0F0F)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=0F0F0F)
+![Postgres](https://img.shields.io/badge/laravel-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=0F0F0F)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=0F0F0F)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&color=0F0F0F)
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white&color=0F0F0F)
