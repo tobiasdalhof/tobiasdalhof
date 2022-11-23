@@ -10,7 +10,7 @@ I'm building [@delm-app](https://github.com/delm-app). Below are some of my favo
 
 ### Frameworks, Platforms & Libraries
 
-![Laravel](https://img.shields.io/badge/laravel-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=0F0F0F)
+![Laravel](https://img.shields.io/badge/laravel-%23316192.svg?style=for-the-badge&logo=laravel&logoColor=white&color=0F0F0F)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&color=0F0F0F)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white&color=0F0F0F)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=0F0F0F)
