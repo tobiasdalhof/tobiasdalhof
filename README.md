@@ -22,14 +22,14 @@ I'm building [@delm-app](https://github.com/delm-app). Below are some of my favo
 
 ### Tools
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=0F0F0F)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0F0F0F)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=0F0F0F)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&color=0F0F0F)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=0F0F0F)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=0F0F0F)
 ![Insomnia](https://img.shields.io/badge/Insomnia-0F0F0F?style=for-the-badge&logo=insomnia&logoColor=white&color=0F0F0F)
 
-### Cloud
+### Cloud Service Providers
 
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white&color=0F0F0F)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white&color=0F0F0F)
