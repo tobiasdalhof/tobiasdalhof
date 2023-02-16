@@ -7,7 +7,7 @@ I'm building [@delm-app](https://github.com/delm-app). Below are some of my favo
 ![PHP](https://img.shields.io/badge/PHP-%23007ACC.svg?style=for-the-badge&logo=PHP&logoColor=white&color=0F0F0F)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=0F0F0F)
 
-### Frameworks, Platforms & Libraries
+### Frameworks, Platforms and Libraries
 
 ![Laravel](https://img.shields.io/badge/laravel-%23316192.svg?style=for-the-badge&logo=laravel&logoColor=white&color=0F0F0F)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&color=0F0F0F)
@@ -29,7 +29,7 @@ I'm building [@delm-app](https://github.com/delm-app). Below are some of my favo
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=0F0F0F)
 ![Insomnia](https://img.shields.io/badge/Insomnia-0F0F0F?style=for-the-badge&logo=insomnia&logoColor=white&color=0F0F0F)
 
-### Cloud Service Providers
+### Cloud Services
 
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white&color=0F0F0F)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white&color=0F0F0F)
