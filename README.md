@@ -25,6 +25,7 @@ I'm building [@delm-app](https://github.com/delm-app). Below are some of my favo
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=0F0F0F)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&color=0F0F0F)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=0F0F0F)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0F0F0F?style=for-the-badge&logo=openai&logoColor=white&color=0F0F0F)
 ![Insomnia](https://img.shields.io/badge/Insomnia-0F0F0F?style=for-the-badge&logo=insomnia&logoColor=white&color=0F0F0F)
 
 ### Cloud
