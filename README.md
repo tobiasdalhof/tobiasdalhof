@@ -15,7 +15,6 @@ I'm building [@delm-app](https://github.com/delm-app). Below are some of my favo
 ![Vue](https://img.shields.io/badge/Vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&color=0F0F0F)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white&color=0F0F0F)
 ![UnoCSS](https://img.shields.io/badge/UnoCSS-%2335495e.svg?style=for-the-badge&logo=unocss&logoColor=white&color=0F0F0F)
-![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white&color=0F0F0F)
 
 ### Tools
 
