@@ -25,10 +25,9 @@ I'm building [@delm-app](https://github.com/delm-app). Below are some of my favo
 ### Cloud
 
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white&color=0F0F0F)
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Servies-%23FF9900.svg?style=for-the-badge&logo=amazon%20web%20services&logoColor=white&color=0F0F0F)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&color=0F0F0F)
-
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon%20web%20services&logoColor=white&color=0F0F0F)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&color=0F0F0F)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%234285F4.svg?style=for-the-badge&logo=cloudflare&logoColor=white&color=0F0F0F)
 
 
 
