@@ -21,7 +21,6 @@ I'm building [@delm-app](https://github.com/delm-app). Below are some of my favo
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0F0F0F)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=0F0F0F)
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&color=0F0F0F)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0F0F0F?style=for-the-badge&logo=openai&logoColor=white&color=0F0F0F)
 
 ### Cloud
 
